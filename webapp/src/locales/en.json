@@ -68,7 +68,7 @@
         "5003": "Invalid type specified!",
         "5004": "Invalid inverter specified!",
         "6001": "Reboot triggered!",
-        "6002": "Reboot cancled!",
+        "6002": "Reboot canceled!",
         "7001": "MQTT Server must between 1 and {max} characters long!",
         "7002": "Username must not longer then {max} characters!",
         "7003": "Password must not longer then {max} characters!",
