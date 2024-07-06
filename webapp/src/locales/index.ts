@@ -11,7 +11,7 @@ export const LOCALES = [
     { value: Locales.EN, caption: 'English' },
     { value: Locales.DE, caption: 'Deutsch' },
     { value: Locales.FR, caption: 'Français' },
-    { value: Locales.FR, caption: 'Türkçe' },
+    { value: Locales.TR, caption: 'Türkçe' },
 ]
 
 export const dateTimeFormats: I18nOptions["datetimeFormats"] = {};
